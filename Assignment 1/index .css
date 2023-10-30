@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+}
+h2{
+    color: chocolate; font-style: oblique;
+}
+p1{
+    color: firebrick;
+}
+p{
+    color: firebrick;
+}
+em{
+color: firebrick;
+}
+ul{
+    color: firebrick; letter-spacing: 4px;
+}
+a{
+    color: firebrick;
+} 
+
